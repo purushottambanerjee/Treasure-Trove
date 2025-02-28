@@ -1,0 +1,3 @@
+[submodule "GoogleOauth-SpringBoot"]
+	path = GoogleOauth-SpringBoot
+	url = https://github.com/purushottambanerjee/GoogleOauth-SpringBoot
