@@ -17,16 +17,8 @@ AI & ML (Python scripts, AI models, data processing tools)
 📂 Repository Structure
 
 Super-Repo/
-│── Java/                 # Java-based projects and snippets
-│   ├── SpringBoot/       # Spring Boot utilities & microservices
-│   ├── Algorithms/       # Java-based algorithm implementations
-│── NodeJS/               # Node.js libraries & projects
-│   ├── Express/          # Express middleware and APIs
-│── React/                # Frontend utilities and reusable components
-│── AI-ML/                # AI & ML models, scripts, and utilities
-│── Docs/                 # Documentation, best practices, and guides
-│── Contributions/        # Code snippets shared by contributors
-│── README.md             # Repository documentation
+│── Relavant Project ----
+|-- .....
 
 🚀 Getting Started
 
@@ -39,15 +31,10 @@ cd Super-Repo
 
 Depending on the project, navigate to the relevant folder and install dependencies:
 
-For Node.js:
+If it is a Node.js Project:
 
-cd NodeJS/Express
+cd NodeJS-ExpressProject
 npm install
-
-For Java:
-
-cd Java/SpringBoot
-mvn clean install
 
 🤝 Contribution Guide
 
